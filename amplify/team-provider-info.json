@@ -1,0 +1,14 @@
+{
+    "todolist": {
+        "awscloudformation": {
+            "AuthRoleName": "todolist-20190313150542-authRole",
+            "UnauthRoleArn": "arn:aws:iam::857643226585:role/todolist-20190313150542-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::857643226585:role/todolist-20190313150542-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "todolist-20190313150542-deployment",
+            "UnauthRoleName": "todolist-20190313150542-unauthRole",
+            "StackName": "todolist-20190313150542",
+            "StackId": "arn:aws:cloudformation:eu-west-1:857643226585:stack/todolist-20190313150542/536641b0-4588-11e9-988a-0a86846a053c"
+        }
+    }
+}

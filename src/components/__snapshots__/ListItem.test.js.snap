@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render matches the snapshot 1`] = `
+<li
+  className="list-group-item d-flex justify-content-between align-items-center"
+>
+  <div
+    className="custom-control custom-checkbox"
+  >
+    <input
+      className="custom-control-input"
+      defaultChecked={true}
+      id=""
+      onChange={[Function]}
+      type="checkbox"
+    />
+    <label
+      className="custom-control-label"
+      htmlFor=""
+      style={
+        Object {
+          "color": "#999",
+          "textDecoration": "line-through",
+        }
+      }
+    >
+      Test item
+    </label>
+  </div>
+  <button
+    className="btn btn-link"
+    onClick={[Function]}
+  >
+    Delete
+  </button>
+</li>
+`;

@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render matches the snapshot 1`] = `
+<div
+  className="d-flex mb-3"
+>
+  <input
+    className="form-control"
+    onChange={[Function]}
+    placeholder="Add a thing to do"
+    type="text"
+    value=""
+  />
+  <button
+    className="btn btn-primary"
+    onClick={[Function]}
+  >
+    Add
+  </button>
+</div>
+`;
